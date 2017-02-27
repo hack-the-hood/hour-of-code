@@ -4,10 +4,15 @@ Here are a few resources
 [free code camp](https://www.freecodecamp.com)
 
 [khan academy](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=khan+academy+computer+programming&*)
+
 [code academy](https://www.codecademy.com/learn)
+
 [front end masters](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=front+end+masters&*)
+
 [code school javascript roadtrip](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+
 [learn command line](https://www.udacity.com/course/linux-command-line-basics--ud595)
+
 [repl](https://repl.it/languages/javascript)
 
 I would suggest that you start with the command line, because you wont get far as a developer without it.
