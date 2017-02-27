@@ -43,7 +43,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
-**9:00AM** |[ntro to Design][4-1A]| [Javascript Roadtrip ][4-1B]| [Google][4-1C] | [Square][4-1D] | 
+**9:00AM** |[Intro to Design][4-1A]| [Javascript Roadtrip ][4-1B]| [Google][4-1C] | [Square][4-1D] | 
 [4-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week4/module1.md
 [4-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week4/module2.md
 [4-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week4/module3.md 
