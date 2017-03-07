@@ -46,7 +46,11 @@ Here is your hidden gem. If you do not have an account activation code for a yea
 
 If you are thinking about entering a bootcamp check out the entire GA curriculum on github, even go through the exercises.
 
+10. [Machine Learning](https://github.com/random-forests/WTM)
 
+11. [Data Sience](https://github.com/amblount/data-science-primer)
+
+12. [Data Sience Part 2.](https://github.com/amblount/fitbit-data-set)
 
 
 
