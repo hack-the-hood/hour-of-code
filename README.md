@@ -15,16 +15,16 @@ Time | Monday | Tuesday | Wednesday | Thursday
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
 **9:00AM** |[Cloud9 + Intro Software Development][1-1A]| [Udacity Command Line][1-1B]| [Udacity Commend Line][1-1C] | [Udacity Commend Line][1-1D] | 
 
-[1-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[1-1B]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Wednesday/module1.md
+[1-1A]:  https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Monday/module1.md
+[1-1B]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Tuesday/module1.md
 [1-1C]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Wednesday/module1.md 
-[1-1D]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Wednesday/module1.md
+[1-1D]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Thursday/module1.md
 
 #### Week 2 — Parsing Through Company Info
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
 **9:00AM** |[Khan Academy][2-1A]| [CS50 Shorts][2-1B]| [Free Code Camp][2-1C] | [Yahoo][2-1D] | 
-[2-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week2/module1.md
+[2-1A]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Wednesday/module1.md
 [2-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week2/module2.md
 [2-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week2/module3.md 
 [2-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week2/module4.md
