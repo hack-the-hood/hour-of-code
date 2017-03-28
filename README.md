@@ -10,7 +10,7 @@ Time        | Monday     | Tuesday      | Wednesday    | Thursday
 
 
 
-#### Week 1 - Introduction To LinkedIn
+#### Week 1 - Set Up IDE + Command Line
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ---  | ----   | ---     | ---       | ---     
 **9:00AM** |[Cloud9 + Intro Software Development][1-1A]| [Udacity Command Line][1-1B]| [Udacity Commend Line][1-1C] | [Udacity Commend Line][1-1D] 
@@ -20,7 +20,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [1-1C]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Wednesday/module1.md 
 [1-1D]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Thursday/module1.md
 
-#### Week 2 — Parsing Through Company Info
+#### Week 2 — E-Learning / Self-Paced
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ---  | ----   | ---     | ---       | --- 
 **9:00AM** |[Khan Academy][2-1A]| [CS50 Shorts][2-1B]| [Free Code Camp][2-1C] | [Yahoo][2-1D] 
@@ -30,7 +30,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [2-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week2/module3.md 
 [2-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week2/module4.md
 
-#### Week 3 — Dissecting A Job Posting
+#### Week 3 — Processing Learn Java through design
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ---  | ----   | ---     | ---       | --- 
@@ -41,7 +41,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [3-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week3/module3.md 
 [3-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week3/module4.md
 
-#### Week 4 — Refining Your Online Presence
+#### Week 4 — Javascript
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ---  | ----   | ---     | ---       | --- 
@@ -52,7 +52,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [4-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week4/module3.md 
 [4-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week4/module4.md
  
-#### Week 5 - Networking and Building Personal Relationships
+#### Week 5 - Project Management
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ---  | ----   | ---     | ---       | --- 
@@ -63,7 +63,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [5-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week5/module3.md 
 [5-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week5/module4.md
 
-#### Week 6 - Getting More Resources
+#### Week 6 - Databases
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ---  | ----   | ---     | ---       | --- 
