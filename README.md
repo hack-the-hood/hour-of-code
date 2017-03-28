@@ -12,8 +12,8 @@ Time        | Monday     | Tuesday      | Wednesday    | Thursday
 
 #### Week 1 - Introduction To LinkedIn
 Time | Monday | Tuesday | Wednesday | Thursday                                    
------ |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
-**9:00AM** |[Cloud9 + Intro Software Development][1-1A]| [Udacity Command Line][1-1B]| [Udacity Commend Line][1-1C] | [Udacity Commend Line][1-1D] | 
+---  | ----   | ---     | ---       | ---     
+**9:00AM** |[Cloud9 + Intro Software Development][1-1A]| [Udacity Command Line][1-1B]| [Udacity Commend Line][1-1C] | [Udacity Commend Line][1-1D] 
 
 [1-1A]:  https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Monday/module1.md
 [1-1B]: https://github.com/hack-the-hood/hour-of-code/blob/master/week1/Tuesday/module1.md
